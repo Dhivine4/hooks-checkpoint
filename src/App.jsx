@@ -5,7 +5,7 @@ class App extends Component {
     person: {
       fullName: "John Doe",
       bio: "Lorem ipsum dolor sit amet.",
-      imgSrc: "https://example.com/profile-image.jpg",
+      imgSrc: "https://shorturl.at/btARU",
       profession: "Developer"
     },
     show: false,
